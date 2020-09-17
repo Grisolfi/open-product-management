@@ -187,7 +187,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 ## Organizing Your Team
 - [ ] [Enter the Matrix - Organizing Product Management](https://www.braintreepayments.com/braintrust/Enter-the-Matrix-Organizing-Product-Management) - Mark Tattersall
 - [ ] [Product organizational structure](http://www.svpg.com/product-organizational-structure/) - Marty Cagan
-- [ ] [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
+- [x] [Good product team, bad product team](http://www.svpg.com/good-product-team-bad-product-team/) - Marty Cagan
 - [ ] [The best Product Management model](http://svpg.com/the-best-product-management-model/) - Marty Cagan
 - [ ] [Maker's Schedule, Manager's Schedule](http://www.paulgraham.com/makersschedule.html) - Paul Graham
 - [ ] [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
